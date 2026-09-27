@@ -83,6 +83,19 @@
       "source_chat_id": "-100123456789",
       "source_message_id": 101,
       "indexed_at": "2026-09-27T15:53:14.496Z"
+    },
+    {
+      "id": "e2e_record_1790524570947",
+      "file_id": "BAACAgUAAxkBAAIB",
+      "file_unique_id": "AgADe2e_test_e2e_record_1790524570947",
+      "file_name": "The.Avengers.2012.1080p.BluRay.x264.mkv",
+      "clean_title": "The Avengers (2012) 1080p",
+      "file_size": 2147483648,
+      "media_type": "video",
+      "caption": "The Avengers 2012 Movie",
+      "source_chat_id": "-100123456789",
+      "source_message_id": 101,
+      "indexed_at": "2026-09-27T15:56:10.947Z"
     }
   ]
 }
