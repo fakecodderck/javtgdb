@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "repo_owner": "",
+  "repo_name": "",
+  "branch": "main",
+  "token": "",
+  "batch_threshold": 100
+}

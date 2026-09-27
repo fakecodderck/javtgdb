@@ -1,0 +1,10 @@
+{
+  "bot_name": "AutoFilter Bot",
+  "storage_channel_id": null,
+  "force_subscribe_enabled": false,
+  "force_sub_channels": [],
+  "auto_delete_time": 0,
+  "enable_translation": true,
+  "batch_write_interval_ms": 5000,
+  "search_limit": 10
+}
